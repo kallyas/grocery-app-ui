@@ -1,0 +1,12 @@
+{
+  "name": "grocery-app-ui",
+  "displayName": "grocery-app-ui",
+  "expo": {
+    "name": "grocery-app-ui",
+    "slug": "grocery-app-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
